@@ -15,3 +15,6 @@
 ### 11. Exercise 6.11
 ### 12. Exercise 6.12
 ### 13. Exercise 6.13
+### 14. Latihan Soal 1
+### 15. Latihan Soal 2
+### 16. Latihan Soal 3
